@@ -37,7 +37,7 @@ The dataset contains the following columns:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](YT_SS.png)
+![YouTube Dashboard](YT_SS.png)
 
 > The dashboard provides a clear and professional view of YouTube performance metrics, combining charts, KPIs, and interactive filters for better analysis.
 
